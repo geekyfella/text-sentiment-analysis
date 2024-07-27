@@ -197,9 +197,9 @@ To use the script, set the `input_source` to either a URL (as `url`) or a PDF (a
 
 ```python
 # URL to fetch
-url = 'https://link.springer.com/article/10.1007/s42398-018-0013-3'
+url = 'url'
 # PDF file path 
-pdf_path = 'C:/Users/ojasv/text-sentiment-analysis/src/Eco-design_processes_in_the_automotive_industry.pdf'
+pdf_path = 'pdf file path'
 
 # Set input source and set is_pdf flag accordingly
 input_source = url  # Change to pdf_path for PDF analysis
