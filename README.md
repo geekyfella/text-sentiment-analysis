@@ -193,7 +193,7 @@ def main(input_source, is_pdf=False):
 
 ## Example Usage
 
-To use the script, set the `input_source` to either a URL or a PDF file path and set the `is_pdf` flag accordingly:
+To use the script, set the `input_source` to either a URL (as `url` or a PDF (as `pdf_path`) file path and set the `is_pdf` flag accordingly:
 
 ```python
 # URL to fetch
