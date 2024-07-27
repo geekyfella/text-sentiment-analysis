@@ -70,8 +70,8 @@ def fetch_articles(url):
     # Print the first 1000 characters of the HTML content to inspect
     print(soup.prettify()[:1000])
     
-    # Find all the divs with class 'c-article-section__content' or divs with the content to be analyzed
-    content_divs = soup.find_all('div', {'class': 'c-article-section__content'})
+    # Find all the divs with class 'class of div'
+    content_divs = soup.find_all('div', {'class': 'class of div'})
     
     data = []
     for div in content_divs:
