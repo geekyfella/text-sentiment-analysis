@@ -1,4 +1,4 @@
-# Text Sentiment Analysis
+# Environmental Text Sentiment Analysis
 
 This script performs sentiment analysis on textual content obtained from either a web page (HTML) or a PDF document. It processes the text, analyzes the sentiment, and generates a word cloud visualization.
 
