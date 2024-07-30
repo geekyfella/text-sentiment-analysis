@@ -211,7 +211,7 @@ main(input_source, is_pdf)
 ## Notes
 
 - Ensure that the PDF file path is correct when analyzing a PDF.
-- Use Forward slash or Oblique (" / ") insted of reverse slash ( " \ " ) doing so will remove the unicode error.
+- Use Forward slash or Oblique (" / ") insted of reverse slash ( " \ " ) doing so will remove the unicode error when add path of the pdf.
 - The script prints debug statements to help track the processing stages.
 - The `main` function handles both URL and PDF inputs, making it versatile for different text sources.
 
